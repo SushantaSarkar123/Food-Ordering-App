@@ -1,0 +1,5 @@
+on terminal run
+>>npm install
+
+then start it By
+>>npm start
